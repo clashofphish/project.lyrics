@@ -1,0 +1,7 @@
+{
+  {
+    "CONNNECTIONS": {
+      "MONGODB": "mongodb+srv://<USERNAME>:<PASSWORD>@lyricscluster-9enzf.mongodb.net/test?retryWrites=true"
+    }
+  }
+}
